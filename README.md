@@ -1,14 +1,10 @@
 # Amazon-Clone
 
-This application is built 
+This app is designed to provide key insights on React router, hosting a web app using Firebase, and the CICD environment. 
 
+This is a replication of the Amazon website, complete with the ability to display goods, add things to cart, and make payments.
 
-
-
-
-
-
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
