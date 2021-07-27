@@ -1,6 +1,6 @@
 # Amazon-Clone
 
-This app is designed to provide key insights on React router, hosting a web app using Firebase, and the CICD environment. 
+This Web application is designed to provide key insights on React router, hosting a web app using Firebase, and the CICD environment. 
 
 This is a replication of the Amazon website, complete with the ability to display goods, add things to cart, and make payments.
 
